@@ -38,7 +38,7 @@ ok      github.com/akkuman/go_script_lang_benchmark     316.026s
 ### Linux
 
 - Ubuntu 18.04.4 LTS
--
+- go version go1.17.6 linux/amd64
 
 ```
 goos: linux
